@@ -14,6 +14,7 @@ include __DIR__ . "/header.php";
             <article>
                 <img src="<?= $team['logo'] ?>">
                 <h2>League: <?= $team['league'] ?></h2>
+                <p>Group: <?= $team['group'] ?></p>
                 <p>Uefa coefficeient ranking: <?= $team['uefa-coefficient-ranking'] ?></p>
                 <p>The team is based in <?= $team['city'] ?></p>
             </article>
