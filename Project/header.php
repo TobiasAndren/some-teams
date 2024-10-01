@@ -5,9 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Some-teams</title>
     <style>
+        body {
+            background-color: snow;
+        }
+
         main {
             align-items: center;
-            background-color: #f5f5f5;
             display: flex;
             height: 170vh;
             justify-content: center;
@@ -22,7 +25,7 @@
             margin-right: 10px;
             text-align: center;
             transition: all 200ms ease;
-            width: 12vw;
+            width: 15vw;
         }
 
         article:hover {
@@ -31,7 +34,7 @@
         }
 
         img {
-            width: 100%;
+            width: 80%;
         }
 
         h2 {
@@ -49,12 +52,12 @@
             display: block;
         }
 
-        a {
+        main a {
             text-decoration: none;
             color: black;
         }
 
-        a:visited {
+        main a:visited {
             color: black;
         }
     </style>
