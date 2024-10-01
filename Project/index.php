@@ -22,3 +22,7 @@ include __DIR__ . "/header.php";
     <?php } ?>
 
 </main>
+
+<?php
+
+include __DIR__ . "/footer.php";
