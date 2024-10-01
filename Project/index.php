@@ -12,8 +12,8 @@ include __DIR__ . "/header.php";
     foreach ($teams as $team) { ?>
         <a class="teams" href="<?= $team['url'] ?>">
             <article>
-                <img src="<?= $team['logo'] ?>" alt="<?= $team['team'] ?>">
-                <h2><?= $team['team'] ?></h2>
+                <img src="<?= $team['logo'] ?>" alt="<?= $team['name'] ?>">
+                <h2><?= $team['name'] ?></h2>
                 <p><?= $team['league'] ?></p>
                 <p>Group: <?= $team['group'] ?></p>
                 <p>Uefa Coefficeient Ranking: <?= $team['uefa-coefficient-ranking'] ?></p>

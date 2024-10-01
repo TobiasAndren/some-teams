@@ -2,7 +2,7 @@
 
 $teams = [
     'Barcelona' => [
-        'team' => 'Barcelona',
+        'name' => 'Barcelona',
         'league' => 'Primera División (Spain)',
         'uefa-coefficient-ranking' => 1,
         'city' => 'Barcelona',
@@ -11,7 +11,7 @@ $teams = [
         'group' => 'D'
     ],
     'Chelsea' => [
-        'team' => 'Chelsea',
+        'name' => 'Chelsea',
         'league' => 'Women\’s Super League (England)',
         'uefa-coefficient-ranking' => 6,
         'city' => 'London',
@@ -20,7 +20,7 @@ $teams = [
         'group' => 'B'
     ],
     'Wolfsburg' => [
-        'team' => 'Wolfsburg',
+        'name' => 'Wolfsburg',
         'league' => 'Frauen-Bundesliga (Germany)',
         'uefa-coefficient-ranking' => 4,
         'city' => 'Wolfsburg',
@@ -29,7 +29,7 @@ $teams = [
         'group' => 'A'
     ],
     'Roma' => [
-        'team' => 'Roma',
+        'name' => 'Roma',
         'league' => 'Serie A (Italy)',
         'uefa-coefficient-ranking' => 17,
         'city' => 'Rome',
@@ -38,7 +38,7 @@ $teams = [
         'group' => 'A'
     ],
     'Real Madrid' => [
-        'team' => 'Real Madrid',
+        'name' => 'Real Madrid',
         'league' => 'Primera División (Spain)',
         'uefa-coefficient-ranking' => 8,
         'city' => 'Madrid',
@@ -47,7 +47,7 @@ $teams = [
         'group' => 'B'
     ],
     'Bayern Munich' => [
-        'team' => 'Bayern Munich',
+        'name' => 'Bayern Munich',
         'league' => 'Frauen-Bundesliga (Germany)',
         'uefa-coefficient-ranking' => 5,
         'city' => 'Munich',
@@ -56,7 +56,7 @@ $teams = [
         'group' => 'C'
     ],
     'Paris Saint-Germain' => [
-        'team' => 'Paris Saint-Germain',
+        'name' => 'Paris Saint-Germain',
         'league' => 'Division 1 Féminine (France)',
         'uefa-coefficient-ranking' => 2,
         'city' => 'Paris',
@@ -65,7 +65,7 @@ $teams = [
         'group' => 'N/A'
     ],
     'Arsenal' => [
-        'team' => 'Arsenal',
+        'name' => 'Arsenal',
         'league' => 'Women\’s Super League (England)',
         'uefa-coefficient-ranking' => 7,
         'city' => 'London',
@@ -74,7 +74,7 @@ $teams = [
         'group' => 'C'
     ],
     'Lyon' => [
-        'team' => 'Lyon',
+        'name' => 'Lyon',
         'league' => 'Division 1 Féminine (France)',
         'uefa-coefficient-ranking' => 3,
         'city' => 'Lyon',
@@ -83,7 +83,7 @@ $teams = [
         'group' => 'A'
     ],
     'Hammarby' => [
-        'team' => 'Hammarby',
+        'name' => 'Hammarby',
         'league' => 'Damallsvenskan (Sweden)',
         'uefa-coefficient-ranking' => 'Not ranked',
         'city' => 'Stockholm',
@@ -92,7 +92,7 @@ $teams = [
         'group' => 'D'
     ],
     'Juventus' => [
-        'team' => 'Juventus',
+        'name' => 'Juventus',
         'league' => 'Serie A (Italy)',
         'uefa-coefficient-ranking' => 10,
         'city' => 'Turin',
@@ -101,7 +101,7 @@ $teams = [
         'group' => 'C'
     ],
     'Twente' => [
-        'team' => 'Twente',
+        'name' => 'Twente',
         'league' => 'Eredivisie (Netherlands)',
         'uefa-coefficient-ranking' => 31,
         'city' => 'Enschede',
@@ -110,7 +110,7 @@ $teams = [
         'group' => 'B'
     ],
     'Galatasaray' => [
-        'team' => 'Galatasaray',
+        'name' => 'Galatasaray',
         'league' => 'Turkish Women\’s Super League',
         'uefa-coefficient-ranking' => 'Not ranked',
         'city' => 'Istanbul',
@@ -119,7 +119,7 @@ $teams = [
         'group' => 'A'
     ],
     'Vålerenga' => [
-        'team' => 'Vålarenga',
+        'name' => 'Vålarenga',
         'league' => 'Toppserien (Norway)',
         'uefa-coefficient-ranking' => 38,
         'city' => 'Oslo',
@@ -128,7 +128,7 @@ $teams = [
         'group' => 'C'
     ],
     'SKN St. Pölten' => [
-        'team' => 'SKN St. Pölten',
+        'name' => 'SKN St. Pölten',
         'league' => 'ÖFB-Frauenliga (Austria)',
         'uefa-coefficient-ranking' => 26,
         'city' => 'St. Pölten',
@@ -137,7 +137,7 @@ $teams = [
         'group' => 'D'
     ],
     'Manchester City' => [
-        'team' => 'Manchester City',
+        'name' => 'Manchester City',
         'league' => 'Women\’s Super League (England)',
         'uefa-coefficient-ranking' => 9,
         'city' => 'Manchester',
