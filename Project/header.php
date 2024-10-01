@@ -12,6 +12,7 @@
             height: 100vh;
             justify-content: center;
             width: 100vw;
+            flex-wrap: wrap;
         }
 
         article {
@@ -42,6 +43,14 @@
             color: #444;
             font-size: 1vw;
             margin-top: 5px;
+        }
+
+        .teams {
+            display: block;
+        }
+
+        a {
+            text-decoration: none;
         }
     </style>
 </head>
