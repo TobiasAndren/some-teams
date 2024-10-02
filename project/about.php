@@ -5,7 +5,7 @@ include __DIR__ . "/header.php";
 ?>
 
 <article>
-    <p>
+    <p class="about">
         My name is Tobias im 23 years old from Sweden.
         In my spare time i enjoy listening to music and playing video games.
         When it comes to music my favorite genre is metal and some of my favorite bands are Sleep Token, Avenged Sevenfold and Bad Omens.

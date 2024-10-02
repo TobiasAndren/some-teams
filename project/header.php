@@ -42,10 +42,15 @@
             margin-bottom: 5px;
         }
 
-        p {
+        main p {
             color: #444;
             font-size: 1vw;
             margin-top: 5px;
+        }
+
+        .about {
+            font-size: 1.1vw;
+            max-width: 50%;
         }
 
         .teams {
