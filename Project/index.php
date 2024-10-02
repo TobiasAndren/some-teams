@@ -16,8 +16,9 @@ include __DIR__ . "/header.php";
                 <h2><?= $key ?></h2>
                 <p><?= $team['league'] ?></p>
                 <p>Group: <?= $team['group'] ?></p>
-                <p>Uefa Coefficeient Ranking: <?= $team['uefa-coefficient-ranking'] ?></p>
+                <p>Uefa Ranking: <?= $team['uefa-coefficient-ranking'] ?></p>
                 <p>The team is based in <?= $team['city'] ?></p>
+                <br>
             </article>
         </a>
 

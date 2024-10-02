@@ -12,7 +12,7 @@
         main {
             align-items: center;
             display: flex;
-            height: 170vh;
+            height: 190vh;
             justify-content: center;
             width: 100vw;
             flex-wrap: wrap;
