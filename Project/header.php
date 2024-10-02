@@ -18,7 +18,7 @@
             flex-wrap: wrap;
         }
 
-        article {
+        main article {
             background-color: #fff;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
             margin-left: 10px;
@@ -28,7 +28,7 @@
             width: 15vw;
         }
 
-        article:hover {
+        main article:hover {
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
             transform: scale(1.1);
         }
