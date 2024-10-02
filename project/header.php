@@ -70,7 +70,7 @@
 
 <body>
     <header>
-        <h1>Some-teams</h1>
+        <h1>Some Teams</h1>
     </header>
     <nav>
         <ul>
