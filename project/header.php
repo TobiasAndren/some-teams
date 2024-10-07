@@ -9,6 +9,41 @@
             background-color: snow;
         }
 
+        .padding {
+            padding-right: 20px;
+            padding-left: 20px;
+        }
+
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header a {
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+
+        h1 {
+            font-size: 40px;
+        }
+
+        nav {
+            display: flex;
+            gap: 10px;
+        }
+
+        h2 {
+            font-size: 1.2vw;
+            margin-bottom: 5px;
+        }
+
+        p {
+            font-size: 36px;
+        }
+
         main {
             align-items: center;
             display: flex;
@@ -33,55 +68,10 @@
             transform: scale(1.1);
         }
 
-        img {
-            width: 80%;
-        }
-
-        h1 {
-            font-size: 40px;
-        }
-
-
-        h2 {
-            font-size: 1.2vw;
-            margin-bottom: 5px;
-        }
-
-        p {
-            font-size: 36px;
-        }
-
         main p {
             color: #444;
             font-size: 1vw;
             margin-top: 5px;
-        }
-
-        nav {
-            display: flex;
-            gap: 10px;
-        }
-
-        header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding-right: 40px;
-            padding-left: 40px;
-        }
-
-        header a {
-            text-decoration: none;
-            font-size: 1.2rem;
-        }
-
-        .about {
-            font-size: 1.1vw;
-            max-width: 50%;
-        }
-
-        .teams {
-            display: block;
         }
 
         main a {
@@ -93,9 +83,17 @@
             color: black;
         }
 
-        .padding {
-            padding-right: 20px;
-            padding-left: 20px;
+        .about {
+            font-size: 1.1vw;
+            max-width: 50%;
+        }
+
+        .teams {
+            display: block;
+        }
+
+        img {
+            width: 80%;
         }
     </style>
 </head>
