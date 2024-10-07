@@ -37,6 +37,11 @@
             width: 80%;
         }
 
+        h1 {
+            font-size: 40px;
+        }
+
+
         h2 {
             font-size: 1.2vw;
             margin-bottom: 5px;
