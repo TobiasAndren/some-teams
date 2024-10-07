@@ -48,6 +48,24 @@
             margin-top: 5px;
         }
 
+        nav {
+            display: flex;
+            gap: 10px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-right: 40px;
+            padding-left: 40px;
+        }
+
+        header a {
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+
         .about {
             font-size: 1.1vw;
             max-width: 50%;
@@ -71,10 +89,8 @@
 <body>
     <header>
         <h1>Some Teams</h1>
+        <nav>
+            <a href="index.php">Start</a>
+            <a href="about.php">About</a>
+        </nav>
     </header>
-    <nav>
-        <ul>
-            <li><a href="index.php">Start</a></li>
-            <li><a href="about.php">About</a></li>
-        </ul>
-    </nav>
