@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Some-teams</title>
+    <title>Some Teams</title>
     <style>
         body {
             background-color: snow;
