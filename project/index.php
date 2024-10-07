@@ -10,7 +10,7 @@ include __DIR__ . "/header.php";
     <?php
 
     foreach ($teams as $key => $team) { ?>
-        <a class="teams" href="<?= $team['url'] ?>">
+        <a class="teams" href="<?= $team['url'] ?>" target="_blank">
             <article>
                 <img src="<?= $team['logo'] ?>" alt="<?= $key ?>">
                 <h2><?= $key ?></h2>
