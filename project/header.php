@@ -47,6 +47,10 @@
             margin-bottom: 5px;
         }
 
+        p {
+            font-size: 36px;
+        }
+
         main p {
             color: #444;
             font-size: 1vw;
@@ -88,11 +92,16 @@
         main a:visited {
             color: black;
         }
+
+        .padding {
+            padding-right: 20px;
+            padding-left: 20px;
+        }
     </style>
 </head>
 
 <body>
-    <header>
+    <header class="padding">
         <h1>Some Teams</h1>
         <nav>
             <a href="index.php">Start</a>
