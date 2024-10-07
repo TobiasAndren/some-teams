@@ -13,3 +13,7 @@ include __DIR__ . "/header.php";
         but some of my all time favorites are Red Dead Redemption 2 and The Elder Scrolls V: Skyrim.
     </p>
 </article>
+
+<?php
+
+include __DIR__ . "/footer.php";
